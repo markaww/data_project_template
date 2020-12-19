@@ -1,4 +1,4 @@
-# data_project_template
+# Data Project template
 Data project template IronHack Dec-12th 
 
 # Data Project README file
