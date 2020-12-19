@@ -1,6 +1,19 @@
 # Data Project template
 Data project template IronHack Dec-12th 
 
+# Formatting practice Dec-19th 
+
+# small 3hash header
+###many hash make the title smaller###
+# larger 2hash header
+one single hash make the title bigger
+# bold is achieved with 2asteriscs
+**this text should be bold**
+# italics
+# links 
+# bulletpoints
+# jupyter font 
+# emojis 
 # Data Project README file
 
 The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
