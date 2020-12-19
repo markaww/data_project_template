@@ -10,7 +10,7 @@ Bearing that in mind, your job is to:
 - Show them how they use it.
 - Tell them any other relevant details.
 
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FChewbacca&psig=AOvVaw2kGNp0zZaoQrPe3W3ea4GS&ust=1608454698936000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDlpe_W2e0CFQAAAAAdAAAAABAD)
 
 ---
 
